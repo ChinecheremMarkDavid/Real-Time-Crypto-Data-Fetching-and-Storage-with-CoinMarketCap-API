@@ -92,7 +92,8 @@ ORDER BY circulating_supply DESC;
 
 
 
-
+-- The visualizations for this queries and more will be created using power bi.
+-- A snapshot and link to the dashboard will be shared here
 
 
 
